@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MarkBish24/Express-Practice-03#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "morgan": "^1.10.0"
   }
 }
